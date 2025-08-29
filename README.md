@@ -31,7 +31,7 @@ npm run dev   # or npm run build && npm run preview
 
 ## 🌐 Live Demo
 
-[👉 View Deployed Site]()
+[👉 View Deployed Site](https://incredible-journeys-reetu.netlify.app/)
 
 ## 📄 License
 
